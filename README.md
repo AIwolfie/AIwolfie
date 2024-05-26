@@ -16,19 +16,6 @@
 
 - ⚡ Fun fact **Did you know that bug bounty hunters have earned millions of dollars by finding vulnerabilities in software?**
 
-<h3 align="left">Connect with me:</h3>
-<div align="left">
-  <img src="[https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg](mayankmalaviya3@gmail.com)" width="52" height="40" alt="gmail logo"  />
-  <img src="[https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg](https://www.hackerrank.com/mayankmalaviya3)" width="52" height="40" alt="hackerrank logo"  />
-  <img src="[https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg](https://instagram.com/mynkk.12_)" width="52" height="40" alt="instagram logo"  />
-  <img src="[https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg](https://linkedin.com/in/mayank malaviya)" width="52" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
-  <img src="[https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg](https://twitter.com/aiwolfie_)" width="52" height="40" alt="twitter logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-</div>
-mayankmalaviya3@gmail.com
-###
 <p align="left">
 <a href="https://twitter.com/aiwolfie_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aiwolfie_" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/mayank malaviya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mayank malaviya" height="30" width="40" /></a>
