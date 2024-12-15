@@ -8,7 +8,7 @@
 
 <h1 align="center">Hi 👋, I'm Mayank Malaviya</h1>
 <h3 align="center">A passionate Cybersecurity Learner and Bug Hunter</h3>
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnUzZHRjcm14amRjc2VramgyeWYyZmtxOGlqeGV2MmE0MDRoeG5peSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YQitE4YNQNahy/giphy.gif">
+<img align="right" alt="Coding" width="400" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWhzc2tnMTR0N3g1NGlrZDdsNjd3c3R4Mms1bWlnMTJkeWF4ZGxtMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kJ1iL1ZQIyibu/giphy-downsized-large.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aiwolfie&label=Profile%20views&color=0e75b6&style=flat" alt="aiwolfie" /> </p>
 
