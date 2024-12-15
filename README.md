@@ -1,8 +1,10 @@
-<a href="https://i.giphy.com">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbW43aHQxcW44bGNhMzA1MzhzaGt5dXQ2ZXE1ZXRmYW1udTB1b2E4dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ohONS2y8GTDoI/giphy.gif" 
-       alt="MasterHead" 
-       style="display: block; margin: auto; width: 200%; max-width: 1000px; height: auto;">
-</a>
+<div align="center">
+  <a href="https://i.giphy.com">
+    <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbW43aHQxcW44bGNhMzA1MzhzaGt5dXQ2ZXE1ZXRmYW1udTB1b2E4dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ohONS2y8GTDoI/giphy.gif" 
+         alt="MasterHead" 
+         style="max-width: 800px; width: 100%; height: auto;">
+  </a>
+</div>
 
 <h1 align="center">Hi 👋, I'm Mayank Malaviya</h1>
 <h3 align="center">A passionate Cybersecurity Learner and Bug Hunter</h3>
