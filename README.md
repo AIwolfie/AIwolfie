@@ -1,7 +1,7 @@
 <a href="https://i.giphy.com">
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbW43aHQxcW44bGNhMzA1MzhzaGt5dXQ2ZXE1ZXRmYW1udTB1b2E4dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ohONS2y8GTDoI/giphy.gif" 
        alt="MasterHead" 
-       style="display: block; margin: auto; width: 100%; max-width: 800px; height: auto;">
+       style="display: block; margin: auto; width: 200%; max-width: 800px; height: auto;">
 </a>
 
 <h1 align="center">Hi 👋, I'm Mayank Malaviya</h1>
