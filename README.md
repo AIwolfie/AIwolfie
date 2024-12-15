@@ -1,7 +1,7 @@
 [![MasterHead](https://drive.google.com/file/d/1-GqFl0bgFhdXxMkm2971PU4jdtL5ZZfZ/view?usp=drive_link)](https://drive.google.com/file/d/1-GqFl0bgFhdXxMkm2971PU4jdtL5ZZfZ/view?usp=drive_link)
 <h1 align="center">Hi 👋, I'm Mayank Malaviya</h1>
 <h3 align="center">A passionate Cybersecurity Learner and Bug Hunter</h3>
-<img align="right" alt="Coding" width="400" src="https://drive.google.com/file/d/1-GqFl0bgFhdXxMkm2971PU4jdtL5ZZfZ/view">
+<img align="right" alt="Coding" width="400" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnUzZHRjcm14amRjc2VramgyeWYyZmtxOGlqeGV2MmE0MDRoeG5peSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YQitE4YNQNahy/giphy-downsized-large.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aiwolfie&label=Profile%20views&color=0e75b6&style=flat" alt="aiwolfie" /> </p>
 
