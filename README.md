@@ -8,7 +8,7 @@
 
 <h1 align="center">Hi 👋, I'm Mayank Malaviya</h1>
 <h3 align="center">A passionate Cybersecurity Learner and Bug Hunter</h3>
-<p align="left"> <img align="right" alt="Coding" width="400" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.5CZwLt-HSxgaztHi-lxs3gHaFj%26pid%3DApi&f=1&ipt=598084ce3026aac1a31fcf23c80b137d5d4903ff98c809327d789fae2c570806&ipo=images" alt="aiwolfie" /> </p>
+<p align="left"> <img align="right" alt="Coding" width="400" src="[https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.5CZwLt-HSxgaztHi-lxs3gHaFj%26pid%3DApi&f=1&ipt=598084ce3026aac1a31fcf23c80b137d5d4903ff98c809327d789fae2c570806&ipo=images](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3lvczEwZDVnaXlnNHVrenZma3ZvbDZ0MHg1amIycGE2MXJjeWR1ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YQitE4YNQNahy/giphy-downsized-large.gif)" alt="aiwolfie" /> </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aiwolfie&label=Profile%20views&color=0e75b6&style=flat" alt="aiwolfie" /> </p>
 
