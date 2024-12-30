@@ -49,5 +49,19 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aiwolfie&show_icons=true&locale=en&layout=compact" alt="aiwolfie" /></p>
 
+<h3 align="center">A passionate frontend developer from India</h3>
+
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://medium.com/@aiwolfie" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@aiwolfie" height="30" width="40" /></a>
+</p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aiwolfie&" alt="aiwolfie" /></p>
+
+
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/buymeacoffee.com/mayankmalac"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="buymeacoffee.com/mayankmalac" /></a></p><br><br>
