@@ -49,7 +49,6 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aiwolfie&show_icons=true&locale=en&layout=compact" alt="aiwolfie" /></p>
 
-<h3 align="center">A passionate frontend developer from India</h3>
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
