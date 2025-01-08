@@ -20,7 +20,7 @@
 
 - 👯 I’m looking to collaborate on **security tools development, bug hunting projects, and open-source initiatives.**
 
-- 📝 I regularly write articles on [https://medium.com/@mayankmalaviya3](https://medium.com/@mayankmalaviya3)
+- 📝 I regularly write articles on [https://aiwolfie.medium.com/](aiwolfie.medium.com)
 
 - 💬 Ask me about **Web3 bug hunting, website security vulnerabilities, and my journey as a bug hunter.**
 
