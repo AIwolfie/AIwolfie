@@ -14,15 +14,7 @@
 
 <p align="left"> <a href="https://twitter.com/aiwolfie_" target="blank"><img src="https://img.shields.io/twitter/follow/aiwolfie_?logo=twitter&style=for-the-badge" alt="aiwolfie_" /></a> </p>
 
-- 🔭 I’m currently working on **Web3 bug hunting and security auditing to improve Web3 security.**
-
-- 🌱 I’m currently learning **Web3 security auditing, advanced exploitation techniques, and threat intelligence gathering.**
-
-- 👯 I’m looking to collaborate on **security tools development, bug hunting projects, and open-source initiatives.**
-
 - 📝 I regularly write articles on [https://aiwolfie.medium.com/](aiwolfie.medium.com)
-
-- 💬 Ask me about **Web3 bug hunting, website security vulnerabilities, and my journey as a bug hunter.**
 
 - 📫 How to reach me **mayankmalaviya3@gmail.com**
 
