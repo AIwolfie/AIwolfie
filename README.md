@@ -1,16 +1,6 @@
-<div align="center">
-  <a href="https://i.giphy.com">
-    <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbW43aHQxcW44bGNhMzA1MzhzaGt5dXQ2ZXE1ZXRmYW1udTB1b2E4dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ohONS2y8GTDoI/giphy.gif" 
-         alt="MasterHead" 
-         style="max-width: 800px; width: 100%; height: auto;">
-  </a>
-</div>
-
 <h1 align="center">Hi 👋, I'm Mayank Malaviya</h1>
 <h3 align="center">A passionate Cybersecurity Learner and Bug Hunter</h3>
 <p align="left"> <img align="right" alt="Coding" width="400" src="https://gifdb.com/images/high/hacker-denis-daily-xxr7x0j4d620j3b2.gif" alt="aiwolfie" /> </p>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aiwolfie&label=Profile%20views&color=0e75b6&style=flat" alt="aiwolfie" /> </p>
 
 <p align="left"> <a href="https://twitter.com/aiwolfie_" target="blank"><img src="https://img.shields.io/twitter/follow/aiwolfie_?logo=twitter&style=for-the-badge" alt="aiwolfie_" /></a> </p>
 
