@@ -27,6 +27,3 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aiwolfie&show_icons=true&locale=en&layout=compact" alt="aiwolfie" /></p>
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aiwolfie&" alt="aiwolfie" /></p>
-
-<a href="https://www.buymeacoffee.com/mayankmalac" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
