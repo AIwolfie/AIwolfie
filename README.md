@@ -74,7 +74,6 @@ $ _
 
 
 <div align="center">
-  <sub><code>[ 04 ]</code></sub>
   <h2>📊 WAR ROOM — TELEMETRY</h2>
 </div>
 
