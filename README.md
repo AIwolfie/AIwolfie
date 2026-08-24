@@ -1,12 +1,6 @@
 <h1 align="center">Hey <img src="https://raw.githubusercontent.com/sindresorhus/sindresorhus/refs/heads/main/cat-typing.gif" height="30px" width="30px"> I'm Mayank Malaviya</h1>
-<h3 align="center">Security Researcher | CTF Player | Python Automation Developer</h3>
 
 <img src="https://i.pinimg.com/originals/f5/03/b5/f503b5d3eceb6a2e621773eb53a2f39c.gif" alt="Banner" width="100%" />
-
-<div align="center">
-  <sub><code>[ 01 ]</code></sub>
-  <h2>🛰️ ABOUT THE OPERATOR</h2>
-</div>
 
 ```txt
 $ whoami
@@ -36,7 +30,6 @@ $ cat focus.md
 $ _
 ```
 
-<img src="https://raw.githubusercontent.com/sindresorhus/sindresorhus/refs/heads/main/cat-typing.gif" height="40px" width="40px" align="right" alt="typing" />
 
 <br><br>
 
