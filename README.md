@@ -3,23 +3,83 @@
 
 <img src="https://i.pinimg.com/originals/f5/03/b5/f503b5d3eceb6a2e621773eb53a2f39c.gif" alt="Banner" width="100%" />
 
-## 📌 About Me
-- 🔭 Building AI-powered cybersecurity tools & automation scripts
-- 🛡️ Passionate about Web Application Security & Bug Bounty
-- 💻 Web Developer with focus on secure & scalable applications
-- 🎮 Game Developer experimenting with Unity & interactive systems
-- 🎨 Interested in modern Web Design & UI/UX
-- ⚡ CTF player who loves breaking & building systems
+<div align="center">
+  <sub><code>[ 01 ]</code></sub>
+  <h2>🛰️ ABOUT THE OPERATOR</h2>
+</div>
 
+```txt
+$ whoami
+┌────────────────────────────────────────────────┐
+│  aiwolfie@cyberdeck                            │
+│  alias  ::  mayank_malaviya                    │
+│  role   ::  security_researcher                │
+│           ctf_player · bug_bounty_hunter       │
+│           python_automation_dev                │
+│           frontend_developer                   │
+└────────────────────────────────────────────────┘
 
-## 🧠 My Focus Areas
-- Penetration Testing
-- Security Automation (Python)
-- AI in Cybersecurity
-- Web Development
-- Web Design & UI/UX
-- Game Development (Unity)
-- OSINT & Reconnaissance
+$ cat mission.txt
+> building AI-powered tools that find the hole before they do.
+> live in the terminal. think in packets. sleep never.
+> breaking & building — same coin, both sides.
+
+$ cat focus.md
+[01] web application security & bug bounty         [active]
+[02] security automation in python                 [active]
+[03] ai applied to security ops                    [active]
+[04] frontend development & ui/ux                  [active]
+[05] osint & recon pipelines                       [active]
+[06] secure web design & ui/ux                     [active]
+[07] unity / interactive systems                   [side-quest]
+
+$ _
+```
+
+<img src="https://raw.githubusercontent.com/sindresorhus/sindresorhus/refs/heads/main/cat-typing.gif" height="40px" width="40px" align="right" alt="typing" />
+
+<br><br>
+
+<!-- ─────────────────── 02 · THE ARSENAL ─────────────────── -->
+
+<div align="center">
+  <sub><code>[ 02 ]</code></sub>
+  <h2>⚔️ THE ARSENAL</h2>
+</div>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Penetration_Testing-00ffff?style=for-the-badge&logo=shield&logoColor=000&color=00ffff" height="32">
+<img src="https://img.shields.io/badge/Security_Automation-00ff9f?style=for-the-badge&logo=python&logoColor=000&color=00ff9f" height="32">
+<img src="https://img.shields.io/badge/AI_in_Cybersecurity-ff00ff?style=for-the-badge&logo=openai&logoColor=000&color=ff00ff" height="32">
+<img src="https://img.shields.io/badge/Bug_Bounty-ff1744?style=for-the-badge&logo=bugcrowd&logoColor=000&color=ff1744" height="32">
+
+<img src="https://img.shields.io/badge/Frontend_Dev-00ffff?style=for-the-badge&logo=react&logoColor=000&color=00ffff" height="32">
+<img src="https://img.shields.io/badge/UI/UX_Design-ff9f00?style=for-the-badge&logo=figma&logoColor=000&color=ff9f00" height="32">
+<img src="https://img.shields.io/badge/Game_Dev_Unity-8a2be2?style=for-the-badge&logo=unity&logoColor=000&color=8a2be2" height="32">
+<img src="https://img.shields.io/badge/OSINT_%26_Recon-00bfff?style=for-the-badge&logo=graph&logoColor=000&color=00bfff" height="32">
+
+</div>
+
+<br>
+
+---
+
+<!-- ─────────────────── 03 · WEAPONS LOADOUT ─────────────────── -->
+
+<div align="center">
+  <sub><code>[ 03 ]</code></sub>
+  <h2>🧰 WEAPONS LOADOUT</h2>
+</div>
+
+| CATEGORY | LOADOUT |
+| :--- | :--- |
+| 🐍 **LANGUAGES** | <img src="https://img.shields.io/badge/Python-050510?style=for-the-badge&logo=python&logoColor=00ffff&color=050510" height="30"> <img src="https://img.shields.io/badge/Bash-050510?style=for-the-badge&logo=gnubash&logoColor=00ff9f&color=050510" height="30"> <img src="https://img.shields.io/badge/JavaScript-050510?style=for-the-badge&logo=javascript&logoColor=ff00ff&color=050510" height="30"> <img src="https://img.shields.io/badge/TypeScript-050510?style=for-the-badge&logo=typescript&logoColor=7df9ff&color=050510" height="30"> <img src="https://img.shields.io/badge/C%23-050510?style=for-the-badge&logo=csharp&logoColor=8a2be2&color=050510" height="30"> |
+| 🌐 **WEB** | <img src="https://img.shields.io/badge/HTML5-050510?style=for-the-badge&logo=html5&logoColor=ff1744&color=050510" height="30"> <img src="https://img.shields.io/badge/CSS3-050510?style=for-the-badge&logo=css3&logoColor=7df9ff&color=050510" height="30"> <img src="https://img.shields.io/badge/React-050510?style=for-the-badge&logo=react&logoColor=00ffff&color=050510" height="30"> <img src="https://img.shields.io/badge/Node.js-050510?style=for-the-badge&logo=nodedotjs&logoColor=00ff9f&color=050510" height="30"> |
+| 🛡️ **SECURITY TOOLING** | <img src="https://img.shields.io/badge/Kali_Linux-050510?style=for-the-badge&logo=kalilinux&logoColor=00ffff&color=050510" height="30"> <img src="https://img.shields.io/badge/Nmap-050510?style=for-the-badge&logo=nmap&logoColor=ff00ff&color=050510" height="30"> <img src="https://img.shields.io/badge/Wireshark-050510?style=for-the-badge&logo=wireshark&logoColor=7df9ff&color=050510" height="30"> <img src="https://img.shields.io/badge/Burp_Suite-050510?style=for-the-badge&logo=burpsuite&logoColor=ff9f00&color=050510" height="30"> <img src="https://img.shields.io/badge/Metasploit-050510?style=for-the-badge&logo=metasploit&logoColor=00ff9f&color=050510" height="30"> |
+| ⚙️ **DEV & OPS** | <img src="https://img.shields.io/badge/Linux-050510?style=for-the-badge&logo=linux&logoColor=ffffff&color=050510" height="30"> <img src="https://img.shields.io/badge/Git-050510?style=for-the-badge&logo=git&logoColor=ff1744&color=050510" height="30"> <img src="https://img.shields.io/badge/Docker-050510?style=for-the-badge&logo=docker&logoColor=00bfff&color=050510" height="30"> <img src="https://img.shields.io/badge/GitHub-050510?style=for-the-badge&logo=github&logoColor=ffffff&color=050510" height="30"> |
+
+<br>
 
 
 ## 📊 GitHub Stats & Trophies
