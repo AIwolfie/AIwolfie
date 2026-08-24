@@ -36,7 +36,6 @@ $ _
 <!-- ─────────────────── 02 · THE ARSENAL ─────────────────── -->
 
 <div align="center">
-  <sub><code>[ 02 ]</code></sub>
   <h2>⚔️ THE ARSENAL</h2>
 </div>
 
@@ -61,7 +60,6 @@ $ _
 <!-- ─────────────────── 03 · WEAPONS LOADOUT ─────────────────── -->
 
 <div align="center">
-  <sub><code>[ 03 ]</code></sub>
   <h2>🧰 WEAPONS LOADOUT</h2>
 </div>
 
@@ -75,16 +73,27 @@ $ _
 <br>
 
 
-## 📊 GitHub Stats & Trophies
+<div align="center">
+  <sub><code>[ 04 ]</code></sub>
+  <h2>📊 WAR ROOM — TELEMETRY</h2>
+</div>
+
 <p align="center">
-  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=AIwolfie&theme=tokyonight&radius=10" alt="AIwolfie's Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AIwolfie&theme=tokyonight&bg_color=050510&color=00ffff&line=ff00ff&point=ffffff&area=true&hide_border=true&radius=16" width="98%" alt="Contribution Graph" />
+</p>
+
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AIwolfie&theme=tokyonight" width="98%" alt="Profile Details" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/AIwolfie">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AIwolfie&langs_count=8&layout=compact&theme=tokyonight&border_radius=10" alt="Top Languages" />
-  </a>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AIwolfie&theme=tokyonight" width="32%" alt="Repos per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AIwolfie&theme=tokyonight" width="32%" alt="Most Commit Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AIwolfie&theme=tokyonight" width="32%" alt="Stats" />
 </p>
+
+<br>
 
 ## 🔗 Connect with Me
 <p align="left"> <a href="https://www.linkedin.com/in/mayank-malaviya-69138b25a/" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&color=00FFFF" alt="Mayank Malaviya's LinkedIn"/></a> <a href="https://x.com/AIwolfie_" target="_blank"><img align="center" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white&color=FF00FF" alt="Mayank Malaviya's Twitter"/></a> <a href="https://www.youtube.com/@Aiwolfie_" target="_blank"><img align="center" src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white&color=FF00FF" alt="Mayank Malaviya's YouTube"/></a> <a href="mailto:mayankmalaviya3@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=00FFFF" alt="Mayank Malaviya's Email"/></a> <a href="https://aiwolfie.online/" target="_blank"><img align="center" src="https://img.shields.io/badge/Website-46BC99?style=for-the-badge&logo=About.me&logoColor=white" alt="Personal Website"/></a> <a href="https://wa.me/916352191121" target="_blank"><img align="center" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a></p>
