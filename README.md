@@ -78,11 +78,6 @@ $ _
 </div>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AIwolfie&theme=tokyonight&bg_color=050510&color=00ffff&line=ff00ff&point=ffffff&area=true&hide_border=true&radius=16" width="98%" alt="Contribution Graph" />
-</p>
-
-
-<p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AIwolfie&theme=tokyonight" width="98%" alt="Profile Details" />
 </p>
 
