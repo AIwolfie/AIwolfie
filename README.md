@@ -97,7 +97,6 @@ $ _
   <a href="https://www.youtube.com/@Aiwolfie_" target="_blank"><img align="center" src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white&color=FF00FF" alt="Mayank Malaviya's YouTube"/></a>
   <a href="mailto:mayankmalaviya3@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=00FFFF" alt="Mayank Malaviya's Email"/></a>
   <a href="https://aiwolfie.online/" target="_blank"><img align="center" src="https://img.shields.io/badge/Website-46BC99?style=for-the-badge&logo=About.me&logoColor=white" alt="Personal Website"/></a>
-  <a href="https://wa.me/916352191121" target="_blank"><img align="center" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
   <a href="https://aiwolfie.gumroad.com/coffee" target="_blank"><img align="center" src="https://img.shields.io/badge/☕_Buy_Me_a_Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=000000" alt="Buy Me a Coffee"/></a>
 </p>
 
