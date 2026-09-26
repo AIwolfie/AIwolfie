@@ -30,12 +30,9 @@ $ cat focus.md
 $ _
 ```
 
+---
 
-<br><br>
-
-<br><br>
-
-<table> <tr> <td align="center"> <h3>4.46K+</h3> <sub>SUBSCRIBERS</sub> </td> <td align="center"> <h3>187K+</h3> <sub>TOTAL VIEWS</sub> </td> <td align="center"> <h3>70+</h3> <sub>VIDEOS</sub> </td> <td align="center"> <h3>∞</h3> <sub>IDEAS</sub> </td> </tr> </table>
+<table> <tr> <td align="center"> <h3>5k+</h3> <sub>SUBSCRIBERS</sub> </td> <td align="center"> <h3>187K+</h3> <sub>TOTAL VIEWS</sub> </td> <td align="center"> <h3>70+</h3> <sub>VIDEOS</sub> </td> <td align="center"> <h3>∞</h3> <sub>IDEAS</sub> </td> </tr> </table>
 
 <sub>Public channel snapshot · stats can change over time</sub>
 
