@@ -1,4 +1,4 @@
-::: {align="center"}
+<div align="center">
 # ⚡ AIWOLFIE // MAYANK MALAVIYA
 
 <img src="https://raw.githubusercontent.com/sindresorhus/sindresorhus/refs/heads/main/cat-typing.gif" width="32" height="32" alt="typing cat">
@@ -10,7 +10,7 @@
 <br>
 
 `RESEARCH → BUILD → BREAK → AUTOMATE → SHIP`
-:::
+</div>
 
 ------------------------------------------------------------------------
 
@@ -36,12 +36,12 @@
 └──────────────────────────────────────────────────────────────────────────────┘
 ```
 
-::: {align="center"}
+<div align="center">
 ### I don't just write code.
 
 **I build tools. I break systems. I automate the boring parts. I ship
 the result.**
-:::
+</div>
 
 ------------------------------------------------------------------------
 
@@ -84,7 +84,7 @@ the result.**
 
 # `03 / SIGNAL`
 
-::: {align="center"}
+<div align="center">
 ## ▶️ YOUTUBE // AIWOLFIE
 
 <a href="https://www.youtube.com/@Aiwolfie_">
@@ -121,17 +121,17 @@ the result.**
 <a href="https://www.youtube.com/@Aiwolfie_">
 <img src="https://img.shields.io/badge/AI%20%2B%20SECURITY%20%2B%20DEV-FF0033?style=for-the-badge&logo=youtube&logoColor=white" alt="AIwolfie YouTube">
 </a>
-:::
+</div>
 
 ------------------------------------------------------------------------
 
 # `04 / BUILD LOG`
 
-::: {align="center"}
+<div align="center">
 ## 🧬 SELECTED PROJECTS
 
 **Five repositories. Five different problems. One builder.**
-:::
+</div>
 
 <table>
 <tr>
@@ -236,7 +236,7 @@ Neural TTS · desktop GUI · web studio · voice workflows
 
 # `05 / TELEMETRY`
 
-::: {align="center"}
+<div align="center">
 ### GITHUB // LIVE PROFILE DATA
 
 <img src="https://github-readme-stats.vercel.app/api?username=AIwolfie&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&border_radius=16" width="96%" alt="GitHub profile statistics">
@@ -248,13 +248,13 @@ Neural TTS · desktop GUI · web studio · voice workflows
 <br><br>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AIwolfie&layout=compact&langs_count=12&theme=tokyonight&hide_border=true&border_radius=16" width="70%" alt="Most used languages">
-:::
+</div>
 
 ------------------------------------------------------------------------
 
 # `06 / THE ARSENAL`
 
-::: {align="center"}
+<div align="center">
 <img src="https://img.shields.io/badge/Python-050510?style=for-the-badge&logo=python&logoColor=00ffff" height="30">
 <img src="https://img.shields.io/badge/TypeScript-050510?style=for-the-badge&logo=typescript&logoColor=7df9ff" height="30">
 <img src="https://img.shields.io/badge/JavaScript-050510?style=for-the-badge&logo=javascript&logoColor=ff00ff" height="30">
@@ -283,7 +283,7 @@ Neural TTS · desktop GUI · web studio · voice workflows
 <img src="https://img.shields.io/badge/Git-050510?style=for-the-badge&logo=git&logoColor=ff1744" height="30">
 <img src="https://img.shields.io/badge/Docker-050510?style=for-the-badge&logo=docker&logoColor=00bfff" height="30">
 <img src="https://img.shields.io/badge/GitHub-050510?style=for-the-badge&logo=github&logoColor=ffffff" height="30">
-:::
+</div>
 
 ------------------------------------------------------------------------
 
@@ -319,7 +319,7 @@ Neural TTS · desktop GUI · web studio · voice workflows
 
 # `08 / ELSEWHERE`
 
-::: {align="center"}
+<div align="center">
 <a href="https://www.linkedin.com/in/mayank-malaviya-69138b25a/">
 <img src="https://img.shields.io/badge/LINKEDIN-050510?style=for-the-badge&logo=linkedin&logoColor=00ffff" alt="LinkedIn">
 </a>
@@ -347,15 +347,15 @@ Neural TTS · desktop GUI · web studio · voice workflows
 <br><br>
 
 ### `// IF IT DOESN'T EXIST, BUILD IT.`
-:::
+</div>
 
 ------------------------------------------------------------------------
 
-::: {align="center"}
+<div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" alt="Animated footer">
 
 <br>
 
 <sub>© Mayank Malaviya aka AIwolfie · Build relentlessly. Learn
 violently. Ship clean.</sub>
-:::
+</div>
