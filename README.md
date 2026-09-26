@@ -33,6 +33,18 @@ $ _
 
 <br><br>
 
+<div align="center"> ## ▶️ YOUTUBE // AIWOLFIE <a href="https://www.youtube.com/@Aiwolfie_"> <img src="https://img.shields.io/badge/OPEN_CHANNEL-111111?style=for-the-badge&logo=youtube&logoColor=FF0033&labelColor=000000" alt="Open YouTube channel"> </a>
+
+<br><br>
+
+<table> <tr> <td align="center"> <h3>4.46K+</h3> <sub>SUBSCRIBERS</sub> </td> <td align="center"> <h3>187K+</h3> <sub>TOTAL VIEWS</sub> </td> <td align="center"> <h3>70+</h3> <sub>VIDEOS</sub> </td> <td align="center"> <h3>∞</h3> <sub>IDEAS</sub> </td> </tr> </table>
+
+<sub>Public channel snapshot · stats can change over time</sub>
+
+<br><br>
+
+<a href="https://www.youtube.com/@Aiwolfie_"> <img src="https://img.shields.io/badge/AI%20%2B%20SECURITY%20%2B%20DEV-FF0033?style=for-the-badge&logo=youtube&logoColor=white" alt="AIwolfie YouTube"> </a> </div>
+
 <!-- ─────────────────── 02 · THE ARSENAL ─────────────────── -->
 
 <div align="center">
