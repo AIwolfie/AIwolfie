@@ -2,63 +2,11 @@
 
 <img src="https://i.pinimg.com/originals/f5/03/b5/f503b5d3eceb6a2e621773eb53a2f39c.gif" alt="Banner" width="100%" />
 
-```txt
-$ whoami
-┌────────────────────────────────────────────────┐
-│  aiwolfie@cyberdeck                            │
-│  alias  ::  mayank_malaviya                    │
-│  role   ::  security_researcher                │
-│           ctf_player · bug_bounty_hunter       │
-│           python_automation_dev                │
-│           frontend_developer                   │
-└────────────────────────────────────────────────┘
-
-$ cat mission.txt
-> building AI-powered tools that find the hole before they do.
-> live in the terminal. think in packets. sleep never.
-> breaking & building — same coin, both sides.
-
-$ cat focus.md
-[01] web application security & bug bounty         [active]
-[02] security automation in python                 [active]
-[03] ai applied to security ops                    [active]
-[04] frontend development & ui/ux                  [active]
-[05] osint & recon pipelines                       [active]
-[06] secure web design & ui/ux                     [active]
-[07] unity / interactive systems                   [side-quest]
-
-$ _
-```
-
 ---
 
 <table> <tr> <td align="center"> <h3>5k+</h3> <sub>SUBSCRIBERS</sub> </td> <td align="center"> <h3>187K+</h3> <sub>TOTAL VIEWS</sub> </td> <td align="center"> <h3>70+</h3> <sub>VIDEOS</sub> </td> <td align="center"> <h3>∞</h3> <sub>IDEAS</sub> </td> </tr> </table>
 
 <a href="https://www.youtube.com/@Aiwolfie_"> <img src="https://img.shields.io/badge/AI%20%2B%20SECURITY%20%2B%20DEV-FF0033?style=for-the-badge&logo=youtube&logoColor=white" alt="AIwolfie YouTube"> </a> </div>
-
----
-
-<!-- ─────────────────── 02 · THE ARSENAL ─────────────────── -->
-
-<div align="center">
-  <h2>⚔️ THE ARSENAL</h2>
-</div>
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Penetration_Testing-00ffff?style=for-the-badge&logo=shield&logoColor=000&color=00ffff" height="32">
-<img src="https://img.shields.io/badge/Security_Automation-00ff9f?style=for-the-badge&logo=python&logoColor=000&color=00ff9f" height="32">
-<img src="https://img.shields.io/badge/AI_in_Cybersecurity-ff00ff?style=for-the-badge&logo=openai&logoColor=000&color=ff00ff" height="32">
-<img src="https://img.shields.io/badge/Bug_Bounty-ff1744?style=for-the-badge&logo=bugcrowd&logoColor=000&color=ff1744" height="32">
-
-<img src="https://img.shields.io/badge/Frontend_Dev-00ffff?style=for-the-badge&logo=react&logoColor=000&color=00ffff" height="32">
-<img src="https://img.shields.io/badge/UI/UX_Design-ff9f00?style=for-the-badge&logo=figma&logoColor=000&color=ff9f00" height="32">
-<img src="https://img.shields.io/badge/Game_Dev_Unity-8a2be2?style=for-the-badge&logo=unity&logoColor=000&color=8a2be2" height="32">
-<img src="https://img.shields.io/badge/OSINT_%26_Recon-00bfff?style=for-the-badge&logo=graph&logoColor=000&color=00bfff" height="32">
-
-</div>
-
-<br>
 
 ---
 
