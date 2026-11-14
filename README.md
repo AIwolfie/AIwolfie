@@ -31,15 +31,6 @@
 
 ---
 
-<a href="https://github.com/aiwolfie">
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=aiwolfie&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F153368411%3Fu%3Dcc12144e002c885cc974c953da3fb73713b5fb79%26v%3D4&variant=space-shooter&v=space-jet-original-2&mode=light" />
-  <img src="https://www.gitskins.com/api/section/heatmap?username=aiwolfie&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F153368411%3Fu%3Dcc12144e002c885cc974c953da3fb73713b5fb79%26v%3D4&variant=space-shooter&v=space-jet-original-2&mode=dark" width="100%" alt="aiwolfie animated contribution jet" />
-</picture>
-</a>
-
----
-
 ## 🔗 Connect with Me
 
 <p align="left">
