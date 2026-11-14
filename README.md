@@ -1,22 +1,5 @@
 
-
-
-<p align="center">
-<img src="https://www.gitskins.com/api/section/wordmark?username=aiwolfie&theme=dracula&style=aura&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F153368411%3Fu%3Dcc12144e002c885cc974c953da3fb73713b5fb79%26v%3D4&v=showcase-wordmark-2" alt="Mayank Malaviya wordmark visual" />
-</p>
-
----
-
-<p>Building, learning, and shipping useful systems in public.</p>
-
 <h2><code>$ which --all toolchain</code></h2>
-
-<p align="center">
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=aiwolfie&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F153368411%3Fu%3Dcc12144e002c885cc974c953da3fb73713b5fb79%26v%3D4&style=terminal&v=terminal-stack-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/stack?username=aiwolfie&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F153368411%3Fu%3Dcc12144e002c885cc974c953da3fb73713b5fb79%26v%3D4&style=terminal&v=terminal-stack-1&mode=dark" width="100%" alt="Mayank Malaviya terminal toolchain" />
-</picture>
-</p>
 
 <table width="100%">
 <tr>
